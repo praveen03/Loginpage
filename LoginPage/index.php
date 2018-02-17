@@ -6,7 +6,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Sign-Up/Login Form</title>
+  <title>Sign-Up/ Jenkins Login Form</title>
   <?php include 'css/css.html'; ?>
 </head>
 
